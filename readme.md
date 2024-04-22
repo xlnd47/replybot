@@ -1,4 +1,3 @@
-```markdown
 # ReplyBot
 
 ## Description
@@ -42,6 +41,3 @@ ReplyBot is a Discord bot programmed in JavaScript using the discord.js-selfbot-
 
 ## License
 This project is licensed under the ISC License.
-```
-
-This should correctly format the content for readability and clarity. Let me know if there's anything else I can assist you with!
