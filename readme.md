@@ -6,7 +6,7 @@ ReplyBot is a Discord bot programmed in JavaScript using the discord.js-selfbot-
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/xlnd47/replybot.git)
+   git clone https://github.com/xlnd47/replybot.git
    ```
 2. Navigate to the project directory:
    ```bash
